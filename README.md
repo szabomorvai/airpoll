@@ -1,7 +1,8 @@
 # airpoll
 Air pollution in the EU
 
-
+The data files of this project can be requested from the authors. 
+Email to: szabomorvai.agnes@krtk.hun-ren.hu 
 
 ************************************************
 * Map
